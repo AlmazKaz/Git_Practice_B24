@@ -7,5 +7,7 @@ public class Third {
 
         System.out.println("Second commit");
 
+        System.out.println("Third commit, nice");
+
     }
 }
